@@ -1,0 +1,136 @@
+@media screen and (max-width: 360px) {
+    .main {
+        width: 350px;
+        margin: 80px 20px;
+    }
+
+    .sedans {
+        background-color: #df760b;
+        width: 300px;
+        float: left;
+        height: 350px;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        border-bottom-left-radius: 0px;
+    }
+    
+    .suvs {
+        background-color: #007580;
+        float: left;
+        height: 350px;
+        width: 300px;
+    }
+    
+    .luxury {
+        background-color: #004445;
+        width: 300px;
+        float: left;
+        height: 350px;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+        border-top-right-radius: 0px;
+    }
+
+    .text {
+        height: 80px;
+        color: #cdd0cb;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 13px;
+    }
+
+    .btn1 {
+        margin-top: 10px;
+        padding: 12px 30px;
+        border: 1px solid white;
+        border-radius: 20px;
+        color: #df760b;
+        font-weight: 700;
+    }
+    
+    .btn2 {
+        margin-top: 10px;
+        padding: 12px 30px;
+        border: 1px solid white;
+        border-radius: 20px;
+        color: #007580;
+        font-weight: 700;
+    }
+    
+    .btn3 {
+        margin-top: 10px;
+        padding: 12px 30px;
+        border: 1px solid white;
+        border-radius: 20px;
+        color: #004445;
+        font-weight: 700;
+    }
+
+}
+
+@media screen and (min-width: 375px) {
+    .main {
+        width: 350px;
+        margin: 80px 20px;
+    }
+
+    .sedans {
+        background-color: #df760b;
+        width: 320px;
+        float: left;
+        height: 350px;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        border-bottom-left-radius: 0px;
+    }
+    
+    .suvs {
+        background-color: #007580;
+        float: left;
+        height: 350px;
+        width: 320px;
+    }
+    
+    .luxury {
+        background-color: #004445;
+        width: 320px;
+        float: left;
+        height: 350px;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+        border-top-right-radius: 0px;
+    }
+
+    .text {
+        height: 80px;
+        color: #cdd0cb;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 13px;
+    }
+
+    .btn1 {
+        margin-top: 10px;
+        padding: 12px 30px;
+        border: 1px solid white;
+        border-radius: 20px;
+        color: #df760b;
+        font-weight: 700;
+    }
+    
+    .btn2 {
+        margin-top: 10px;
+        padding: 12px 30px;
+        border: 1px solid white;
+        border-radius: 20px;
+        color: #007580;
+        font-weight: 700;
+    }
+    
+    .btn3 {
+        margin-top: 10px;
+        padding: 12px 30px;
+        border: 1px solid white;
+        border-radius: 20px;
+        color: #004445;
+        font-weight: 700;
+    }
+}
