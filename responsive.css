@@ -1,4 +1,4 @@
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 360px) and (max-width: 370px) {
     .main {
         width: 350px;
         margin: 80px 20px;
@@ -67,7 +67,7 @@
 
 }
 
-@media screen and (min-width: 375px) {
+@media screen and (min-width: 375px) and (max-width: 414px) {
     .main {
         width: 350px;
         margin: 80px 20px;
